@@ -1,0 +1,83 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+הופכים רעיונות למציאות עם שירותי הדפסת תלת מימד מתקדמים בישראל. מוצרים מותאמים אישית, איכות ללא פשרות ומשלוח מהיר. הזמן עכשיו וקבל הצעת מחיר חינם!
+
+### שירות הדפסת תלת מימד
+https://example.com/3d-printing-service
+שירותי הדפסת תלת מימד למעצבים תעשייתיים ולעסקים בישראל — מהפרוטוטייפ הראשון ועד ייצור סדרתי. טכנולוגיה מתקדמת, חומרים איכותיים ותוצאות מדויקות. בואו נתחיל!
+
+### בקשת מידול מותאם אישית
+https://example.com/custom-modeling-request
+יש לך רעיון אבל אין לך קובץ? הצוות שלנו מתמחה במידול תלת מימד מותאם אישית מאפס. שלח בקשה, קבל עיצוב מקצועי ותן לנו להדפיס את הפרויקט שלך לחיים. צור קשר היום!
+
+### תיק עבודות
+https://example.com/portfolio
+גלה את תיק העבודות שלנו ותתרשם מאלפי פרויקטים של הדפסת תלת מימד שביצענו לעסקים ומעצבים בישראל. מוצרים, פרוטוטייפים ופסלים — כולם מחכים לך כאן. השראה מובטחת!
+
+### צור קשר
+https://example.com/contact
+יש לך שאלה, פרויקט או רעיון שמחכה להתגשם? צוות 3D PRINT ANYTHING זמין לך עכשיו. שלח הודעה, קבל ייעוץ מקצועי חינם ותן לנו להתחיל לעבוד בשבילך. אנחנו כאן!
+
+### Products
+https://example.com/products
+המוצרים שלנו - 3D PRINT ANYTHING
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - 3D PRINT ANYTHING
+
+### Category
+https://example.com/category/:slug
+מוצרים - 3D PRINT ANYTHING
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
