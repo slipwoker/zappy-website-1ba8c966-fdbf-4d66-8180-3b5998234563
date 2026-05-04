@@ -1,4 +1,41 @@
-# Business — Generative Engine Optimization Map
+# 3D PRINT ANYTHING — Generative Engine Optimization Map
+
+> Updated Prompt (with RTL Focus)
+Role: Expert Full-stack Developer. Build a responsive web app for "3D Print Anything".
+
+Technical Requirements:
+
+Framework: React + Tailwind CSS.
+
+RTL Support: Use dir="rtl" on the root element. Ensure all layouts (flex/grid) and text alignments reflect Hebrew reading order.
+
+Language: UI must be in Hebrew.
+
+Core Pages & Logic:
+
+Navbar & Footer: Incorporate the brand name "3D Print Anything".
+
+Order Management (Admin):
+
+A table showing orders.
+
+Fix: Ensure the "Details" column doesn't truncate. Add a button with a Lucide "Eye" icon that opens a Modal to display the full order text.
+
+Shopping Cart:
+
+A drawer/sidebar for the cart.
+
+Checkout Flow: "Proceed to Checkout" (המשך לתשלום) must trigger a comprehensive form (Name, Email, Phone, Address, Notes).
+
+Services: Sections for "Shop", "3D Printing Service", and "Custom Modeling Request".
+
+Design Instructions:
+
+Use Tailwind classes like font-sans (or a Hebrew-friendly font).
+
+Ensure that space-x-reverse or gap is used instead of standard space-x to handle spacing between elements in RTL.
+
+Align labels to the right.
 
 ---
 
@@ -72,12 +109,66 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## Products
 
-## About Business
+_No products are currently configured._
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+## About 3D PRINT ANYTHING
+Updated Prompt (with RTL Focus)
+Role: Expert Full-stack Developer. Build a responsive web app for "3D Print Anything".
+
+Technical Requirements:
+
+Framework: React + Tailwind CSS.
+
+RTL Support: Use dir="rtl" on the root element. Ensure all layouts (flex/grid) and text alignments reflect Hebrew reading order.
+
+Language: UI must be in Hebrew.
+
+Core Pages & Logic:
+
+Navbar & Footer: Incorporate the brand name "3D Print Anything".
+
+Order Management (Admin):
+
+A table showing orders.
+
+Fix: Ensure the "Details" column doesn't truncate. Add a button with a Lucide "Eye" icon that opens a Modal to display the full order text.
+
+Shopping Cart:
+
+A drawer/sidebar for the cart.
+
+Checkout Flow: "Proceed to Checkout" (המשך לתשלום) must trigger a comprehensive form (Name, Email, Phone, Address, Notes).
+
+Services: Sections for "Shop", "3D Printing Service", and "Custom Modeling Request".
+
+Design Instructions:
+
+Use Tailwind classes like font-sans (or a Hebrew-friendly font).
+
+Ensure that space-x-reverse or gap is used instead of standard space-x to handle spacing between elements in RTL.
+
+Align labels to the right.
+
+## Target Audience
+- מעצבים תעשייתיים
+- מוסדות חינוך
+- יוצרים חובבים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
